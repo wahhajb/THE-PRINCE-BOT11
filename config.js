@@ -141,7 +141,7 @@ global.mysticbot = 'https://instagram.com/ 3mk_ryozaki'
 global.waitt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
 global.waittt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
 global.waitttt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
-global.nomorown = '97474727015';
+global.nomorown = '97474727015'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
