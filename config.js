@@ -12,14 +12,15 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["966547169636", "rayan Queen ⚜️", true],
-  [''] 
+  ['97474727015', '𝑱𝑶𝑵 𝑺𝑵𝑶𝑾 🛡️', true],
+   ['97471130511', 'عمك', true]
 ]
+
 //💌------------------------------------------💌
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['966547169636'] 
+global.mods = ['97474727015'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -74,23 +75,23 @@ global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 
 
 
-global.img = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img2 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img3 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg' 
-global.img4 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg' 
-global.img5 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img6 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img7 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img8 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img9 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img10 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img11 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img12 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img13 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img14 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img15 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img16 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
-global.img17 = 'https://telegra.ph/file/4bc2497c3b5285ec6c1c2.jpg'
+global.img = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img2 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img3 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg' 
+global.img4 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg' 
+global.img5 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img6 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img7 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img8 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img9 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img10 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img11 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img12 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img13 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img14 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img15 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img16 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.img17 = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
 //💌------------------------------------------💌
 
 
@@ -119,24 +120,36 @@ global.developer = 'https://wa.me/97474727015' //contact
 
 
 //Sticker WM
-global.botname = ' 𝐁𝐎𝐓'
-global.princebot = ' 𝐁𝐎𝐓'
-global.packname = '𝐁𝐎𝐓' 
-global.author = '𝐁𝐎𝐓' 
-global.princeig = 'https://instagram.com/lo_ley22' 
-global.princegp = 'https://instagram.com/lo_ley22'
-global.menuvid = 'https://instagram.com/lo_ley22'
-global.Princesc = 'https://instagram.com/lo_ley22' 
-global.princeyt = 'https://instagram.com/lo_ley22'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.botname = '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃'
+global.princebot = '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃'
+global.packname = '𝐉𝐎𝐍 𝐒𝐍𝐎𝐖' 
+global.author = '🛡️ 𝐄𝐀𝐒𝐓' 
+global.princeig = 'https://instagram.com/ 3mk_ryozaki' 
+global.princegp = 'https://instagram.com/ 3mk_ryozaki'
+global.menuvid = 'https://telegra.ph/file/4d55a0bde8a319f600703.mp4'
+global.Princesc = 'https://instagram.com/ 3mk_ryozaki' 
+global.princeyt = 'https://instagram.com/ 3mk_ryozaki'
+global.Princelog = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg'
+global.wm = '🛡️𝐄𝐀𝐒𝐓🛡️'
+global.titulowm = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
+global.titulowm2 = `\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\``
+global.igfg = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
+global.gt = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
+global.mysticbot = '\`\`\`𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃\`\`\`'
+global.md = 'https://instagram.com/ 3mk_ryozaki'
+global.mysticbot = 'https://instagram.com/ 3mk_ryozaki'
+global.waitt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
+global.waittt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
+global.waitttt = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
+global.nomorown = '97474727015'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
 
 
 //Reactions
-global.wait = '*♻️ _جاري التحميل رجاء الانتضار..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _يتم تحميل الصورة رجاء الانتضار..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
+global.imgs = '*[❗] جار التحميل، يرجى الانتظار لحظة...*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
@@ -156,3 +169,4 @@ watchFile(file, () => {
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
+})
