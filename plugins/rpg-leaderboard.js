@@ -22,21 +22,8 @@ const handler = async (m, {conn, args, participants}) => {
 
   const randomAdventurePhrase = adventurePhrases[Math.floor(Math.random() * adventurePhrases.length)];
   const texto = `
-*< توب 10 بالبوت حاليا 😭🤍 >*
-    
-—◉ *توب ${len} خبرات 🌟*
-
-${sortedExp.slice(0, len).map(({jid, exp}, i) => `${i + 1}. ${participants.some((p) => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${exp} خبرات*`).join`\n`}
-
-—◉ *توب ${len} الماسات 💎*
-
-${sortedLim.slice(0, len).map(({jid, limit}, i) => `${i + 1}. ${participants.some((p) => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${limit} الماسات*`).join`\n`}
-
-—◉ *توب ${len} لفل 🎚️*
-
-${sortedLevel.slice(0, len).map(({jid, level}, i) => `${i + 1}. ${participants.some((p) => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *مرحلة ${level}*`).join`\n`}
-
-*⚔️ ${randomAdventurePhrase} ⚔️*`.trim();
+*⚔️ ${randomAdventurePhrase} ⚔️*
+`.trim();
   conn.sendMessage(m.chat, {text: texto, mentions: conn.parseMention(texto)}, {quoted: m})
 };
 handler.help = ['top'];
