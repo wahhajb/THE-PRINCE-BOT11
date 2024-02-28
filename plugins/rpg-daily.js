@@ -36,7 +36,7 @@ if (new Date - user.lastclaim < 7200000) return await conn.reply(m.chat, `\nلق
  ${texto}
 ╰━━🎁━🎁━🎁━━⬣
 ${gt}`;
-  const img = './Menu.png';
+  const img = 'https://telegra.ph/file/30c1cd55e66d7c39eea3a.jpg';
   await conn.sendFile(m.chat, img, 'east.jpg', text, fkontak);
   // await conn.sendButton(m.chat, text, texto + `\n\n🎟️ 𝗣 𝗥 𝗘 𝗠 𝗜 𝗨 𝗠 ⇢ ${premium ? '✅' : '❌'}\n${wm}`, img, [['⛰️ 𝘼𝘽𝙍𝙄𝙍 𝘾𝙊𝙁𝙍𝙀 | 𝘾𝙊𝙁𝙁𝙀𝙍 ⛰️', '/cofre'], ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], m, dos.getRandom())
   user.lastclaim = new Date * 1;
